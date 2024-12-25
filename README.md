@@ -31,7 +31,8 @@ Welcome to my GitHub profile! I am a passionate developer interested in building
 
 ## 🔗 Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/zxeenu](https://www.linkedin.com/in/ziaan-ahmed-73b201221/))  
+- [LinkedIn](https://www.linkedin.com/in/ziaan-ahmed-73b201221)
+- [Stackoverflow](https://stackoverflow.com/users/15810938/zxeenu)
 
 ## 📂 Featured Projects
 
