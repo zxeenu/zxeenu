@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I am a passionate developer interested in building
 
 ## 🛠️ Technologies and Tools
 
-- **Languages:** TypeScript, Python, Go, JavaScript  
-- **Frameworks & Tools:** Laravel, React, Remix, Mantine, SQLAlchemy, Prisma  
+- **Languages:** TypeScript, Python, Go  
+- **Frameworks & Tools:** Laravel, React, Remix, Mantine, Prisma  
 - **DevOps:** Docker, Docker Compose, Caddy Server  
 - **Other Interests:** Distributed architectures, ORM optimizations, and PWA enhancements  
 
@@ -36,8 +36,9 @@ Welcome to my GitHub profile! I am a passionate developer interested in building
 
 ## 📂 Featured Projects
 
+- **[Heavy Telegram Bot](https://github.com/zxeenu/heavy-telegram-bot)**: A toy distributed event orchestration project. 
 - **[Crypexlog](https://github.com/zxeenu/crypexlog)**: A cryptocurrency trading log with powerful analytics and a PWA-enabled front-end.  
 - **[Python-OpenCV-Template](https://github.com/zxeenu/python-opencv-template)**: A robust development container for OpenCV projects with Python.  
-- **[Bread3](https://github.com/zxeenu/bread3)**: Remix-based full-stack PWA with Mantine, Drizzle ORM, and TypeScript.  
+- **[Bread3](https://github.com/zxeenu/bread3)**: Remix-based full-stack PWA with Mantine, Drizzle ORM, and TypeScript. Had to sunset it because of lack of users :( 
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
