@@ -4,8 +4,7 @@ Welcome to my GitHub profile! I am a passionate developer interested in building
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **PWA development with Remix, optimizing Laravel-Inertia projects, and refining my Docker setups**.
-- 👯 I’m looking to collaborate on **Go projects, distributed systems, and TypeScript-based web applications**.
+- 🌱 I’m looking to collaborate on **Go projects, event-based systems, and TypeScript-based web applications**.
 - 💬 Ask me about **Go, Laravel, Docker, TypeScript, or building maintainable, strongly-typed systems**.
 - 📫 How to reach me: **mohamed.ziaan.ahmd@gmail.com**
 - ⚡ Fun fact: **I love experimenting with containerized environments and strongly typed languages.**
@@ -47,7 +46,7 @@ A well-designed system doesn't just work. It makes incorrect usage impossible or
 ## 📂 Featured Projects
 
 - **[Heavy Telegram Bot](https://github.com/zxeenu/heavy-telegram-bot)**: A toy distributed event orchestration project.
-    - _Python • RabbitMQ • Telegram • GO • Docker • Event Based_] 
+    - _Python • RabbitMQ • Telegram • GO • Docker • Event Based_
 - **[Bread3](https://github.com/zxeenu/bread3)**: Bill Splitting app. Had to sunset it because of lack of users :(
     - _Remix • Mantine • TypeScript • Drizzle • PWA_
 
