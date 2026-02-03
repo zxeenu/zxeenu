@@ -4,10 +4,7 @@ Welcome to my GitHub profile! I am a passionate developer interested in building
 
 ## 🚀 About Me
 
-- 🌱 I’m looking to collaborate on **Go projects, event-based systems, and TypeScript-based web applications**.
-- 💬 Ask me about **Go, Laravel, Docker, TypeScript, or building maintainable, strongly-typed systems**.
-- 📫 How to reach me: **mohamed.ziaan.ahmd@gmail.com**
-- ⚡ Fun fact: **I love experimenting with containerized environments and strongly typed languages.**
+- 🌱 I like Typescript. 
 
 ## 🛠️ My Methodology 
 
