@@ -20,7 +20,7 @@ A well-designed system doesn't just work. It makes incorrect usage impossible or
 - **Languages:** TypeScript, Python, Go  
 - **Frameworks & Tools:** Laravel, React, Remix, Mantine, Prisma  
 - **DevOps:** Docker, Docker Compose, Caddy Server  
-- **Other Interests:** Distributed architectures, Event Based Systems, Message Brokers, Observability
+- **Other Interests:** Distributed architectures, Event Based Systems, Message Brokers, Observability, Reactive Programming
 
 ## 📊 GitHub Stats
 
