@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 I am a passionate developer focused on building efficient, scalable, and user-friendly software. 
 I care deeply about correctness, clarity, and ergonomics—both for users and future maintainers. 
 
-Currently, I design and maintain a dynamic workflow orchestration system, where these principles 
+I currently design and maintain a dynamic workflow orchestration system, where these principles 
 are tested daily against real-world complexity.
 
 ## 🚀 About Me
@@ -34,7 +34,7 @@ I value designs where:
 - **Languages:** TypeScript, Python, Go  
 - **Frameworks & Tools:** Laravel, React, Remix, Mantine, Prisma  
 - **DevOps:** Docker, Docker Compose, Caddy  
-- **Other Interests:** distributed architectures, event-based systems, message brokers, observability, reactive programming, probabilistic data structures (will I ever have a chance where I will need to use one 😞)
+- **Other Interests:** distributed architectures, event-based systems, message brokers, observability, reactive programming, probabilistic data structures (will I ever have a chance where I will need to use one?)
 
 ## 📊 GitHub Stats
 
