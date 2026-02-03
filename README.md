@@ -1,10 +1,18 @@
 # Hi there, I'm zxeenu! 👋
 
-Welcome to my GitHub profile! I am a passionate developer interested in building efficient, scalable, and user-friendly software. 
+Welcome to my GitHub profile! 
+
+I am a passionate developer focused on building efficient, scalable, and user-friendly software. 
+I care deeply about correctness, clarity, and ergonomics—both for users and future maintainers. 
+
+Currently, I design and maintain a dynamic workflow orchestration system, where these principles 
+are tested daily against real-world complexity.
 
 ## 🚀 About Me
 
-- 🌱 I like Typescript. 
+- 🌱 I like TypeScript.
+- 💥 I like errors and exceptions that clearly tell you what to fix.
+- 🧠 I like software designs that guide you toward the correct solution by default
 
 ## 🛠️ My Methodology 
 
@@ -15,12 +23,18 @@ A well-designed system doesn't just work. It makes incorrect usage impossible or
 - 🧠 Keep the logic fearless
 - 🚨 Let exceptions be loud
 
+I value designs where:
+
+- errors are explicit
+- edge cases are uncomfortable to ignore
+- intent is obvious from types and structure (I’d go so far as to say types are part of the developer documentation)
+
 ## 🛠️ Technologies and Tools
 
 - **Languages:** TypeScript, Python, Go  
 - **Frameworks & Tools:** Laravel, React, Remix, Mantine, Prisma  
-- **DevOps:** Docker, Docker Compose, Caddy Server  
-- **Other Interests:** Distributed architectures, Event Based Systems, Message Brokers, Observability, Reactive Programming
+- **DevOps:** Docker, Docker Compose, Caddy  
+- **Other Interests:** distributed architectures, event-based systems, message brokers, observability, reactive programming, probabilistic data structures (will I ever have a chance where I will need to use one 😞)
 
 ## 📊 GitHub Stats
 
